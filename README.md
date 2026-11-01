@@ -3,6 +3,7 @@
 Tugas Pengolahan Citra Digital (Wahyono, Ph.D.) tentang implementasi metode segmentasi citra dan pemrosesan morfologi (morphological processing) tanpa menggunakan pustaka instan.
 
 Nama: Ucok Kamal NIM: 25/566250/PA/23896
+
 Colab: https://colab.research.google.com/drive/1Z6TJsG9uPhGNelmh4MelII2faMNF0olm?usp=sharing
 
 ## Metode
